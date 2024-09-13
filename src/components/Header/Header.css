@@ -1,0 +1,43 @@
+.navbar-toggle .icon-bar {
+    background: #3364db;
+  }
+
+  #navbarmain {
+    padding: 20px 0px;
+    flex-direction: row-reverse;
+  }
+  
+  #navbarmain .nav-link {
+    font-weight: 600;
+    padding: 10px 15px;
+    color: #444444;
+    font-family: "Exo", sans-serif;
+    text-transform: capitalize;
+    font-size: 16px;
+    transition: all .25s ease;
+  }
+  #navbarmain .nav-link:hover{
+    color: #3364db ;
+  }
+
+.navbar-brand {
+    margin-top: 10px;
+    gap: 10px;
+  }
+  
+  .navbar-brand img {
+    max-height: 60px;
+    background-color: #243beb;
+    padding: 5px;
+    border-radius: 50%;
+    border: 3px solid #3364db;
+  }
+  .navbar-brand .logo-title{
+    font-size: 30px;
+    font-weight: bold;
+    color:#444444;
+  }
+
+  .navbar-brand .logo-title:hover{
+    color: #3364db ;
+  }
