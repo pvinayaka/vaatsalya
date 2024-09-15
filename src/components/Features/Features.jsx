@@ -15,7 +15,7 @@ function Features() {
                             </div>
                                 {/* <span>24 Hours Service</span> */}
                                 <h4 className="mb-3">Pregnancy Care</h4>
-                                <p className="mb-2">Dr. Teena specializes in high-risk pregnancies, ensuring the health and well-being of both mother and baby.</p>
+                                <p className="mb-2">Specializing in high-risk pregnancies, our services ensure the health and well-being of both mother and baby through comprehensive care. We offer:</p>
                                 <ul>
                                     <li>Painless Normal Delivery</li>
                                     <li>Breastfeeding and Maternal Education</li>
@@ -35,7 +35,7 @@ function Features() {
                                     <li className="d-flex justify-content-between">Thu - Fri : <span>8:00 - 18:00</span></li>
                                     <li className="d-flex justify-content-between">Sat - sun : <span>9:00 - 18:00</span></li>
                                 </ul> */}
-                                <p className="mb-2">Dr. Teena provides comprehensive care for women's health concerns.</p>
+                                <p className="mb-2">Offering comprehensive and compassionate care for a wide range of women’s health concerns, including:</p>
                                 <ul>
                                     <li>PCOD/PCOS</li>
                                     <li>Menstrual Disorders</li>
@@ -51,7 +51,7 @@ function Features() {
                                 </div>
                                 {/* <span>Emegency Cases</span> */}
                                 <h4 className="mb-3">Infertility and Beyond</h4>
-                                <p>Experience all-time support for emergencies. We embrace the principle of family medicine, ensuring continuous care. Connect with us for any urgent need.</p>
+                                <p>Experience unwavering, round-the-clock support for all your emergency needs. We embody the essence of family medicine, ensuring continuous, compassionate care for you and your loved ones. Connect with us for any urgent concerns, and rest assured that your well-being is our top priority.</p>
                         </div>
                     </div>
                 </div>

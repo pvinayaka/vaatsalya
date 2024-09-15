@@ -618,6 +618,10 @@ a:focus {
   padding-top: 180px;
 }
 
+.service-item {
+  height: 300px;
+}
+
 .service .service-item {
   background: #fff;
   padding: 30px;
