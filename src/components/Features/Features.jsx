@@ -20,7 +20,7 @@ function Features() {
                                     <li>Painless Normal Delivery</li>
                                     <li>Breastfeeding and Maternal Education</li>
                                 </ul>
-                                <a href="appoinment.html" className="btn btn-main btn-round-full">Make a appoinment</a>
+                                <a href="https://www.practo.com/bangalore/clinic/dr-teena-s-vaatsalya-clinic-siddapura" className="btn btn-main btn-round-full" style={{ backgroundColor: '#3364db',color: '#ffffff', fontWeight: 'bold' ,fontSize: '15px', borderRadius: '50px' }}>Make a appoinment</a>
                         </div>
                             
                         <div className="feature-item mb-5 mb-lg-0">

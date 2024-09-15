@@ -8,6 +8,7 @@ import About from './components/About/About';
 import Counter from './components/Counter/Counter';
 import Services from './components/Services/Services';
 import Appointment from './components/Appointment/Appointment';
+import Testimonial from './components/Testimonial/Testimonial';
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
       <Counter />
       <Services />
       <Appointment />
+      <Testimonial />
     </main>
     <Footer />
     </>

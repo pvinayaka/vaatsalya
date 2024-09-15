@@ -15,7 +15,7 @@ function HeroBanner() {
                         
                         <p className="mb-4 pr-5">Empowering women through exceptional care, our clinic is committed to your health journey. We provide holistic services that address both your physical and mental health, ensuring you feel supported every step of the way.</p>
                         <div className="btn-container">
-                            <a href="appoinment.html" target="_blank" className="btn btn-main-2 btn-icon btn-round-full">Make appoinment
+                            <a href="https://www.practo.com/bangalore/clinic/dr-teena-s-vaatsalya-clinic-siddapura" target="_blank" className="btn btn-main-2 btn-icon btn-round-full" style={{ backgroundColor: '#3364db',color: '#ffffff', fontWeight: 'bold' ,fontSize: '15px', borderRadius: '50px' }}>Make appoinment
                                 <i className="icofont icofont-simple-right ml-2  "></i>
                             </a>
                         </div>

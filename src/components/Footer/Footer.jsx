@@ -15,7 +15,7 @@ function Footer(){
                             <ul className="list-inline footer-socials mt-4">
                                 <li className="list-inline-item"><a href="#"><i className="icofont icofont-facebook"></i></a></li>
                                 <li className="list-inline-item"><a href="#"><i className="icofont icofont-twitter"></i></a></li>
-                                <li className="list-inline-item"><a href="#"><i className="icofont icofont-linkedin"></i></a></li>
+                                <li className="list-inline-item"><a href="https://www.linkedin.com/in/dr-teena-bannihatti-b24384234/"><i className="icofont icofont-linkedin"></i></a></li>
                             </ul>
                         </div>
                     </div>
